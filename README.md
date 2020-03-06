@@ -1,4 +1,3 @@
-learn submit
 # Method Arguments Lab
 
 ## Objectives
